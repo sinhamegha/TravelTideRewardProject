@@ -7,7 +7,7 @@ The purpose of this project was to review the customer data for a specified coho
 
 
 ## Tools Used
-JGoogle Colab
+Google Colab
 SQLAlchemy to connect to the Postgresql database
 Pandas, Numpy, Matplotlib, Seaborn,Tableau for data maniupulation and charts
 ## Project Structure
