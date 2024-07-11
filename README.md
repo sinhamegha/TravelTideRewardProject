@@ -13,14 +13,13 @@ Project Structure
 Root Directory
 Notebook files, key.yaml file for API Keys
 
-Charts
 Charts generated from the Tableau during analysis
 
 Exported Dataset
 Two csv files, one with the segments identifed and one with the remaining customers
 
 Presentation and Report
-The Word Document, PowerPoint presentation, and Video of the presentation
+The Word Document, Keynote presentation, and Video of the presentation
 
 PDF
-PDF copies of the Exceutive Summary, PowerPoint presentation, and a printout of each of the notebooks
+PDF copies of the Exceutive Summary, Keynote presentation, and a printout of each of the notebooks
